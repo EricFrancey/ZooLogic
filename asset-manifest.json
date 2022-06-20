@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ZooLogic/static/css/main.073c9b0a.css",
-    "main.js": "/ZooLogic/static/js/main.548143cb.js",
+    "main.css": "/ZooLogic/static/css/main.79215ee6.css",
+    "main.js": "/ZooLogic/static/js/main.28b93500.js",
     "static/js/787.e5c2abca.chunk.js": "/ZooLogic/static/js/787.e5c2abca.chunk.js",
     "static/media/utahpng.png": "/ZooLogic/static/media/utahpng.a9f5b342c5fc55531d7f.png",
     "index.html": "/ZooLogic/index.html",
-    "main.073c9b0a.css.map": "/ZooLogic/static/css/main.073c9b0a.css.map",
-    "main.548143cb.js.map": "/ZooLogic/static/js/main.548143cb.js.map",
+    "main.79215ee6.css.map": "/ZooLogic/static/css/main.79215ee6.css.map",
+    "main.28b93500.js.map": "/ZooLogic/static/js/main.28b93500.js.map",
     "787.e5c2abca.chunk.js.map": "/ZooLogic/static/js/787.e5c2abca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.548143cb.js"
+    "static/css/main.79215ee6.css",
+    "static/js/main.28b93500.js"
   ]
 }
