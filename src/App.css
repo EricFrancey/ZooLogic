@@ -28,11 +28,17 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bg-image {
+  width: 31em;
+  height: 31em;
+  clip-path: polygon(1% 99%, 99% 98%, 84% 13%, 51% 8%, 9% 10%, 29% 4%, 13% 38%, 7% 27%, 17% 54%, 4% 63%, 12% 21%);
+  object-fit: cover;
+}
+.main-text {
+font-size: 75px;
+font-family: 'Pacifico', cursive;
+margin-top: -20px;
+color: black;
+transform: translate(0px,-130px);
+
 }

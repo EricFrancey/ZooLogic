@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={background} alt="background" />
-<p> ZooLogic</p>
+        <img className="bg-image" src={background} alt="background" />
+          <p className="main-text"> ZooLogic</p>
       </header>
     </div>
   );
